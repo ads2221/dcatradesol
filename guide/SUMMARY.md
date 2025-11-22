@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Содержание](README.md)
+* [Что такое DCA (Dollar Cost Averaging) ?](README.md)
+* [Содержание](<README (1).md>)
 * [Функционал кнопок](funkcional-knopok/README.md)
   * [🏠Главная панель](funkcional-knopok/glavnaya-panel.md)
   * [👤Профиль](funkcional-knopok/profil.md)
