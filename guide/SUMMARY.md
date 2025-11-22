@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Что такое DCA (Dollar Cost Averaging) ?](README.md)
-* [Содержание](<README (1).md>)
+* [Содержание](README.md)
+* [Что такое DCA (Dollar Cost Averaging) ?](chto-takoe-dca-dollar-cost-averaging.md)
+* [🤖 Основная работа бота Solana Trade Dex DCA](osnovnaya-rabota-bota-solana-trade-dex-dca.md)
 * [Функционал кнопок](funkcional-knopok/README.md)
   * [🏠Главная панель](funkcional-knopok/glavnaya-panel.md)
   * [👤Профиль](funkcional-knopok/profil.md)
@@ -14,6 +15,7 @@
   * [📈История PNL](funkcional-knopok/istoriya-pnl.md)
   * [🔑Запросить доступ](funkcional-knopok/zaprosit-dostup.md)
 
-## Group 1
+## Контакты
 
-* [Page 1](group-1/page-1.md)
+* [Поддержка](kontakty/page-1.md)
+* [Наши проекты](kontakty/nashi-proekty.md)
