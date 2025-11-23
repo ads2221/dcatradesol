@@ -6,13 +6,13 @@ icon: dollar-sign
 
 **DCA (Dollar Cost Averaging) (усреднение стоимости)** — стратегия инвестирования в токен на блокчейне Solana, при котором User (Пользователь) выполняет покупки данного токена в заданном ему интервале и на общую сумму, ниже вы можете посмотреть скриншот.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Данный User покупает данный токен "OOB" на общую сумму 100.000$, интервальное время ETA составляет 1 час и 40 минут, каждую минуту будет происходить покупка данного токена на сумму 1.000$
 
 На скриншоте вы можете увидеть график движение цены с момента появление данного ордера.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 На графике указаны значения точки входа, точки выхода (ботом вручную), прибыль и время завершение ордера.
 

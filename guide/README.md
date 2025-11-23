@@ -4,31 +4,27 @@ icon: comment-text
 
 # Содержание
 
-### Введение <a href="#vvedenie" id="vvedenie"></a>
+{% content-ref url="chto-takoe-dca-dollar-cost-averaging.md" %}
+[chto-takoe-dca-dollar-cost-averaging.md](chto-takoe-dca-dollar-cost-averaging.md)
+{% endcontent-ref %}
 
-* Функционал кнопок
-* Что такое DCA торговля?
+{% content-ref url="osnovnaya-rabota-bota-solana-trade-dex-dca.md" %}
+[osnovnaya-rabota-bota-solana-trade-dex-dca.md](osnovnaya-rabota-bota-solana-trade-dex-dca.md)
+{% endcontent-ref %}
 
-### Начало работы <a href="#nachalo-raboty" id="nachalo-raboty"></a>
+{% content-ref url="poluchit-dostup-k-botu.md" %}
+[poluchit-dostup-k-botu.md](poluchit-dostup-k-botu.md)
+{% endcontent-ref %}
 
-* Первые шаги
-* Получение доступа
+{% content-ref url="funkcional-knopok/" %}
+[funkcional-knopok](funkcional-knopok/)
+{% endcontent-ref %}
 
-### Настройка <a href="#nastroika" id="nastroika"></a>
+{% content-ref url="kontakty/page-1.md" %}
+[page-1.md](kontakty/page-1.md)
+{% endcontent-ref %}
 
-* Настройка кошелька
-* Торговые настройки
-* Фильтры токенов
-* Черные списки
+{% content-ref url="kontakty/nashi-proekty.md" %}
+[nashi-proekty.md](kontakty/nashi-proekty.md)
+{% endcontent-ref %}
 
-### Торговля <a href="#torgovlya" id="torgovlya"></a>
-
-* Управление ордерами
-* Аналитика и статистика
-* Расширенные функции
-
-### Помощь <a href="#pomosh" id="pomosh"></a>
-
-* Часто задаваемые вопросы
-* Устранение неполадок
-* Контакты поддержки
